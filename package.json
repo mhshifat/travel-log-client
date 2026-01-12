@@ -21,7 +21,7 @@
     "react-form-hooks": "^1.1.5",
     "react-hook-form": "^6.2.0",
     "react-map-gl": "^5.2.7",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "typescript": "~3.7.2"
   },
   "scripts": {
